@@ -1,0 +1,16 @@
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.exe
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.deps.json
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.runtimeconfig.json
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.runtimeconfig.dev.json
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.dll
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\bin\Debug\net5.0\Calculadora_Tabuada.pdb
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.csproj.AssemblyReference.cache
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.AssemblyInfoInputs.cache
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.AssemblyInfo.cs
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.dll
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\refint\Calculadora_Tabuada.dll
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.pdb
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\Calculadora_Tabuada.genruntimeconfig.cache
+C:\Users\Positivo\Desktop\Nova pasta\Calculadora_Tabuada\Calculadora_Tabuada\obj\Debug\net5.0\ref\Calculadora_Tabuada.dll
